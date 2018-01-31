@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "maxmak.ml",
-    "currentPage": "home.html",
+    "currentPage": "order.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 64,
     "versionPublish": "4.6.3",
@@ -46,7 +46,7 @@
     "order.html": {
       "settings": {
         "meta_descr": "",
-        "title": "maxmak.ml/order",
+        "title": "maxmak.ml",
         "order": 1
       },
       "components": [
@@ -252,7 +252,7 @@
         }
       ]
     },
-    "home.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "maxmak.ml",
