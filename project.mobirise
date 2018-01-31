@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "maxmak.ml",
-    "currentPage": ".html",
+    "currentPage": "order.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 64,
     "versionPublish": "4.6.3",
@@ -252,7 +252,7 @@
         }
       ]
     },
-    ".html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "maxmak.ml",
