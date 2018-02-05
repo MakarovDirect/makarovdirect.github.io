@@ -1409,7 +1409,7 @@ body {
   background-color: #604b89;
 }
 .cid-qIfbvilOSd {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background: #000000;
 }
@@ -1421,17 +1421,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-qINruFxM4t {
+.cid-qIg49Iukyy {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: linear-gradient(0deg, #000000, #000000);
-}
-.cid-qINruFxM4t .mbr-iconfont-social {
-  font-size: 32px;
-  color: #00ffd9;
-}
-.cid-qINruFxM4t .social-list a:focus {
-  text-decoration: none;
+  background-color: #000000;
 }
 .cid-qIHL0KVcAS {
   padding-top: 0px;
@@ -1459,7 +1452,8 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #000000;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -1468,7 +1462,7 @@ body {
   background: transparent !important;
 }
 .cid-qIHL0KVcAS .mbr-gallery-item > div:hover:before {
-  opacity: 0.5 !important;
+  opacity: 0.6 !important;
 }
 .cid-qIHL0KVcAS .mbr-gallery-title {
   font-size: .9em;
@@ -1488,8 +1482,9 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #000000 !important;
-  opacity: 0.5;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.6;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
