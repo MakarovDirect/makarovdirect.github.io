@@ -509,7 +509,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-15-19-921790.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-17-42-986338.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/248716502",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
@@ -517,13 +517,13 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-20-28-15829.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/224631228",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
                 "alt": "",
@@ -533,9 +533,9 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-21-0-229449.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/251238553",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
                 "alt": "",
@@ -545,9 +545,9 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-21-22-724302.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/230429463",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "alt": "",
@@ -557,9 +557,9 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-22-3-337891.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/224318341",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "alt": "",
@@ -569,15 +569,15 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-25-25-317806.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/252528428",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
