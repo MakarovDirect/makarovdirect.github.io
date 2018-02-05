@@ -484,6 +484,18 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-17-42-986338.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/248716502",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-55-28-78120.jpg",
                 "playVideo": true,
@@ -494,18 +506,6 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-14-5-498478.jpg",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/252688397",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
               },
               {
                 "tags": "Responsive",
@@ -520,12 +520,12 @@
                 "active": false
               },
               {
-                "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-17-42-986338.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-1-11-14-5-498478.jpg",
                 "playVideo": true,
-                "videoUrl": "https://vimeo.com/248716502",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "videoUrl": "https://vimeo.com/252688397",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
