@@ -1409,8 +1409,8 @@ body {
   background-color: #604b89;
 }
 .cid-qIfbvilOSd {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #000000;
 }
 .cid-qIfbvilOSd .video-block {
@@ -1420,6 +1420,18 @@ body {
   .cid-qIfbvilOSd .video-block {
     width: 100% !important;
   }
+}
+.cid-qINruFxM4t {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qINruFxM4t .mbr-iconfont-social {
+  font-size: 32px;
+  color: #00ffd9;
+}
+.cid-qINruFxM4t .social-list a:focus {
+  text-decoration: none;
 }
 .cid-qIHL0KVcAS {
   padding-top: 0px;
