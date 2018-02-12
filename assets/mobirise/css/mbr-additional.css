@@ -1357,9 +1357,12 @@ body {
 .cid-qJqLd3BEDi .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-qJqLd3BEDi .media-container-row .mbr-text {
+  color: #cccccc;
+}
 .cid-qJqKoIQ6sl {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #604b89;
 }
 .cid-qJqKoIQ6sl .video-block {
@@ -1404,8 +1407,8 @@ body {
   color: #ffffff;
 }
 .cid-qJqAU6fygr {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #39074c;
 }
 .cid-qJqAU6fygr .row-links {
@@ -1474,5 +1477,5 @@ body {
   width: 100%;
 }
 .cid-qJqAU6fygr .media-container-row .mbr-text {
-  color: #ffffff;
+  color: #cccccc;
 }
